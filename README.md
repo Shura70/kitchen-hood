@@ -5,6 +5,7 @@ auto close after 30 min timeout.
 Coonctions UNO pins
 
 DRV8825:
+
 //   DIR  → 2
 
 //   STEP → 3
